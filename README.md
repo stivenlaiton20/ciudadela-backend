@@ -1,10 +1,20 @@
-## Getting Started
 
-First, run the development server:
 
-`
-npm run dev
+## Para Comenzar el proyecto
+#primero
 
-```
+- npm install
 
-Open [http://localhost:3000](http://localhost:8000) with your browser to see the result.
+y luego 
+
+- npm run dev
+
+para el backend utilice
+- typescript
+- graphql
+- express para crear el servidor
+- axios para consumir la data desde graphql
+
+
+
+abrir (http://localhost:8000) con tu navegador apra ver el servidor
